@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "GO BABY",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2026-02-19T00:12:23.630684Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go!)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/01_Cherry_Lips_(Go_Baby_Go!)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_Cherry_Lips_(Go_Baby_Go)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go) [Roger Sanchez Remix]",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/03_Cherry_Lips_(Go_Baby_Go)_[Roger_Sanchez_Remix]_Garbage.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go) (Roger Sanchez)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/04_Cherry_Lips_(Go_Baby_Go)_(Roger_Sanchez)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Go Baby (feat GemStones)",
+      "artist": "Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/05_Go_Baby_(feat_GemStones)_Lupe_Fiasco.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go Baby (featuring Gemstones)",
+      "artist": "Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/06_Go_Baby_(featuring_Gemstones)_Lupe_Fiasco.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Go Baby",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/07_No_Go_Baby_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go Baby Go",
+      "artist": "Krokus",
+      "has_synced": true,
+      "path": "select/08_Go_Baby_Go_Krokus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go!)",
+      "artist": "Garbage Tribute Band",
+      "has_synced": false,
+      "path": "select/09_Cherry_Lips_(Go_Baby_Go!)_Garbage_Tribute_Band.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go!)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/10_Cherry_Lips_(Go_Baby_Go!)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/11_Cherry_Lips_(Go_Baby_Go)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Upset the Rhythm (Go Baby Go)",
+      "artist": "Noisettes",
+      "has_synced": true,
+      "path": "select/12_Don't_Upset_the_Rhythm_(Go_Baby_Go)_Noisettes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Upset The Rhythm (Go Baby Go)",
+      "artist": "Noisettes",
+      "has_synced": true,
+      "path": "select/13_Don't_Upset_The_Rhythm_(Go_Baby_Go)_Noisettes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go!) (Roger Sanchez Remix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/14_Cherry_Lips_(Go_Baby_Go!)_(Roger_Sanchez_Remix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Upset The Rhythm (Go Baby Go)",
+      "artist": "Noisettes",
+      "has_synced": true,
+      "path": "select/15_Don't_Upset_The_Rhythm_(Go_Baby_Go)_Noisettes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go!) - 2021 Remaster",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/16_Cherry_Lips_(Go_Baby_Go!)_-_2021_Remaster_Garbage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GO BABY",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_GO_BABY_Justin_Bieber.txt"
+    }
+  ]
+}
